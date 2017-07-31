@@ -362,3 +362,5 @@ This AddOn provide a window (and a menu item) to display other AddOns data.
 - Window are sized according to color frame (ratio)
 - Window have a sidebar where addons put new controls
 - A dedicated footer can be used by ProfileManager
+
+#
